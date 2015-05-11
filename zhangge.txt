@@ -5,3 +5,4 @@ sum=sum+i;
 i=i+1;
 }
 wo shida ge
+wo shi xiaodi
